@@ -1,6 +1,8 @@
 
 # Enterprise DevSecOps Local Lab
 
+Enterprise-grade **local DevSecOps platform** using Kubernetes (k3d) on WSL2 with automated Jenkins, SonarQube, ArgoCD, Grafana, Kubernetes Dashboard, CI/CD pipelines, GitOps deployment, monitoring, security scanning, and beautiful terminal-based installer UI.
+
 Professional DevSecOps local lab setup for:
 
 - Kubernetes (k3d)
@@ -52,6 +54,6 @@ chmod +x devsecops-setup.sh
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git remote add origin https://github.com/bkarankar/devsecops-lab.git
 git push -u origin main
 ```
