@@ -10,7 +10,7 @@ Watch the full automated Enterprise DevSecOps platform installation demo:
 
 Features shown in demo:
 
-Kubernetes (k3d) setup
+- Kubernetes (k3d) setup
 Jenkins installation
 SonarQube setup
 ArgoCD GitOps deployment
