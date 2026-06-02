@@ -4,6 +4,22 @@
 ![Grafana](https://img.shields.io/badge/Grafana-Monitoring-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+Watch the full automated Enterprise DevSecOps platform installation demo:
+
+▶ Watch Terminal Recording at https://asciinema.org/a/OzET5y7cDMgf8nGx
+
+Features shown in demo:
+
+Kubernetes (k3d) setup
+Jenkins installation
+SonarQube setup
+ArgoCD GitOps deployment
+Grafana monitoring
+Kubernetes Dashboard
+Automated port-forwarding
+Professional terminal UI
+Service validation
+
 # Enterprise DevSecOps Local Lab
 
 Enterprise-grade **local DevSecOps platform** using Kubernetes (k3d) on WSL2 with automated Jenkins, SonarQube, ArgoCD, Grafana, Kubernetes Dashboard, CI/CD pipelines, GitOps deployment, monitoring, security scanning, and beautiful terminal-based installer UI.
