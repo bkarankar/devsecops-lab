@@ -5,8 +5,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 Watch the full automated Enterprise DevSecOps platform installation demo:
-
-▶ Watch Terminal Recording at https://asciinema.org/a/OzET5y7cDMgf8nGx
+▶ Watch Terminal Recording
+<img width="1522" height="986" alt="devsecops-demo" src="https://github.com/user-attachments/assets/e1479a53-779b-468f-bfbe-31a86d9d6eb6" />
 
 Features shown in demo:
 
