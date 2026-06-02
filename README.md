@@ -12,13 +12,13 @@ Features shown in demo:
 
 - Kubernetes (k3d) setup
 - Jenkins installation
-SonarQube setup
-ArgoCD GitOps deployment
-Grafana monitoring
-Kubernetes Dashboard
-Automated port-forwarding
-Professional terminal UI
-Service validation
+- SonarQube setup
+- ArgoCD GitOps deployment
+- Grafana monitoring
+- Kubernetes Dashboard
+- Automated port-forwarding
+- Professional terminal UI
+- Service validation
 
 # Enterprise DevSecOps Local Lab
 
