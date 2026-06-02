@@ -1,3 +1,8 @@
+![Kubernetes](https://img.shields.io/badge/Kubernetes-k3d-blue)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI-red)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-orange)
+![Grafana](https://img.shields.io/badge/Grafana-Monitoring-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 # Enterprise DevSecOps Local Lab
 
